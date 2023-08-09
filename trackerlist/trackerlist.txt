@@ -143,7 +143,6 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 http://shubt.net:2710/announce
 http://t.nyaatracker.com:80/announce
-http://t.publictracker.xyz:6969/announce
 http://torrentsmd.com:8080/announce
 http://tracker.birkenwald.de:6969/announce
 http://tracker.dler.com:6969/announce
