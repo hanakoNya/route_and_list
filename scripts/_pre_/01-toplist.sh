@@ -4,7 +4,7 @@ set -o pipefail
 CUR_DIR=$(pwd)
 TMP_DIR=$(mktemp -d /tmp/toplist.XXXXXX)
 
-SRC_URL="https://s3.amazonaws.com/alexa-static/top-1m.csv.zip"
+SRC_URL="https://downloads.majesticseo.com/majestic_million.csv"
 DEST_FILE="dist/toplist/toplist.txt"
 
 gen_list() {
@@ -12,9 +12,9 @@ gen_list() {
 
   curl -sSL $SRC_URL |
     # unzip
-    gunzip |
+    # gunzip |
     # extract domain
-    awk -F ',' '{print $2}' > toplist.txt
+    awk -F ',' 'NR>1 {print $3}' > toplist.txt
 
   cd $CUR_DIR
 }
