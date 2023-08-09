@@ -41,10 +41,10 @@ main() {
   scripts/chnroute/chnroute.sh
 
   # pac
-  scripts/pac/pac.sh
+  # scripts/pac/pac.sh
 
   # shadowrocket
-  scripts/shadowrocket/shadowrocket.sh
+  # scripts/shadowrocket/shadowrocket.sh
 
   # trackerlist
   scripts/trackerlist/trackerlist.sh
