@@ -21,14 +21,14 @@ clean_dist() {
   delete_dist_if_eq_release dist/adblock/adblock.conf release/adblock/adblock.conf 4
   delete_dist_if_eq_release dist/pac/gfwlist.pac release/pac/gfwlist.pac 4
   delete_dist_if_eq_release dist/pac/whitelist.pac release/pac/whitelist.pac 4
-  delete_dist_if_eq_release dist/shadowrocket/gfwlist.conf release/shadowrocket/gfwlist.conf 4
-  delete_dist_if_eq_release dist/shadowrocket/whitelist.conf release/shadowrocket/whitelist.conf 4
+  # delete_dist_if_eq_release dist/shadowrocket/gfwlist.conf release/shadowrocket/gfwlist.conf 4
+  # delete_dist_if_eq_release dist/shadowrocket/whitelist.conf release/shadowrocket/whitelist.conf 4
 }
 
 clean_up() {
   rm -r release
 }
 
-clone_release
+# clone_release
 clean_dist
 clean_up
