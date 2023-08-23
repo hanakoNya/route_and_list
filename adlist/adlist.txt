@@ -7471,6 +7471,7 @@ log-collector.svctr.zynga.com
 52acc.cn
 52kuwang.cn
 5ggj5cp.com
+5lfgdju.com
 777aa999aa.com
 7xixi.site
 8861198.com
@@ -7625,6 +7626,7 @@ fcbqxt.xyz
 fddxbn.xyz
 feiln.xyz
 fengyukun03.cn
+fgetmzx.icu
 fhglcpf.icu
 fiktvlnc.icu
 fjsytjs.cn
@@ -7663,6 +7665,7 @@ hbqabbg.cn
 hdfdsdaw.com
 hdpdrandpd.xyz
 hegk01a.top
+hegk02a.top
 hegk03a.top
 hegk05a.top
 hfjk3wa.com
@@ -7857,6 +7860,7 @@ okmhmkjnm.com
 one6u.xyz
 oopej.xyz
 ooqwc.xyz
+oqyiapj.cn
 oslbahk.top
 ossfile001.com
 owlinggnomist.com
@@ -7875,6 +7879,7 @@ pirxzl.xyz
 pjsbuhl.icu
 plbs9k.icu
 pmxalz.xyz
+pnlhnx.xyz
 poqiod.com
 powedw.com
 pr88vhg.com
@@ -8072,6 +8077,7 @@ ziravd.xyz
 zmdjbl.xyz
 znyjmbh.icu
 zonyff.xyz
+zpotkvpy.icu
 zszhln.xyz
 zvasuzb.icu
 zwfkxb.xyz
@@ -39346,6 +39352,7 @@ waygatecrowbar.com
 waymarkgentiin.com
 waymentriddel.com
 waynagmay.com
+wazaki.xyz
 wazbuvdcij.com
 wazensee.net
 wbdds.com
@@ -42749,6 +42756,7 @@ api.lab.amplitude.com
 apolloprogram.io
 app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
+app-measurement.com
 app.pendo.io
 appboycdn.com
 aps.hearstnp.com
@@ -42867,6 +42875,8 @@ bawdybeast.com
 baypops.com
 bbn.img.com.ua
 beacon.gu-web.net
+beacons.gcp.gvt2.com
+beacons.gvt2.com
 beamincrease.com
 bebi.com
 beemray.com
